@@ -1,4 +1,4 @@
-![Header](https://github.com/hifest/hifest/blob/main/assets/giphy-backdrop.mp4)
+![Header](https://github.com/hifest/hifest/blob/main/assets/50080c84bdd9bc0caec150ef0f68ecbd.webp)
 
 ## I'm Front-end developer
 
