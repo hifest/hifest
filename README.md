@@ -1,4 +1,4 @@
-![Header](https://github.com/hifest/hifest/blob/main/assets/logo.jpg)
+![Header](https://github.com/hifest/hifest/blob/main/assets/giphy-backdrop%20(1).gif)
 
 # I'm Front-end developer
 
