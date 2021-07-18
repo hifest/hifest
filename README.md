@@ -1,8 +1,8 @@
 ![Header](https://github.com/hifest/hifest/blob/main/assets/50080c84bdd9bc0caec150ef0f68ecbd.webp)
 
-## I'm Front-end developer
+# I'm Front-end developer
 
-##Latest site
+## Latest site
 
 ### Languages and Tools
 
@@ -14,4 +14,6 @@
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=SQL)
 
 
-Follow me
+### Follow me
+[![instagram](https://img.shields.io/badge/instargam-090909?style=for-the-badge&logo=instagram)](https://instagram.com/valeriy_bagriy_?utm_medium=copy_link)
+[![telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/valeriynzxt)
